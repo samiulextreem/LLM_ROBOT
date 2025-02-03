@@ -1,4 +1,4 @@
-# Cyberdyne Robotics Control System
+# LLM driven Robotics manupulation
 
 A Python-based control system for managing and operating robotic joints through a secure API interface.
 
