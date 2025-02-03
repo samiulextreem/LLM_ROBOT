@@ -15,7 +15,6 @@ This project provides a robust interface for controlling robotic joints with sec
 ## Usages
 
 1. Download and install [NVIDIA Omniverse Isaac Sim](https://developer.nvidia.com/isaac-sim) from the official NVIDIA developer portal.
-2. Launch Isaac Sim and load the provided environment file, which contains the simulated Franka arm setup.
+2. Launch Isaac Sim and load the provided environment file, which contains the simulated Franka arm setup.Create an `api_keys.txt` file and place it in the installation directory.
    This environment enables the robot to perceive and interact with its surroundings.
 3. Open VS Code and install the Omniverse Isaac Sim extension. Run the `cyberdyne.py` file, which will connect to the simulator over TCP protocol and execute commands.
-4. Create an `api_keys.txt` file and place it in the installation directory.
