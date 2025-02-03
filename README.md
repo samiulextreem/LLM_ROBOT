@@ -1,6 +1,8 @@
-# LLM driven Robotics manupulation
+# LLM driven Robotics manipulation
 
-A Python-based control system for managing and operating robotic joints through a secure API interface.
+![Robot Arm Demo](robot_arm.gif)
+
+A Python-based control system for managing and operating robotic joints through a secure API interface of grok.
 
 ## Overview
 
